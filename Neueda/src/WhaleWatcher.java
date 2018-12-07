@@ -14,7 +14,7 @@ public class WhaleWatcher {
 		
 		
 		
-		//
+		//adding objets to an ArrayList
 		ArrayList<Whale> allwhales = new ArrayList<Whale>() {{
 			add(rightWhale);
 			add(blueWhale);
@@ -27,9 +27,10 @@ public class WhaleWatcher {
 		for (int i = 0; i < 4; i++) {
 			System.out.println(Animal.class);
 		}
+		
+		
 	     
 		
-
 	
 		
 	
