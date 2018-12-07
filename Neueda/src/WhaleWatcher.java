@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 
 public class WhaleWatcher {
@@ -21,9 +22,12 @@ public class WhaleWatcher {
 			add(humpbackWhale);
 		}};
 		
-	     for(<ArrayList Whale : Whale) {
-	            System.out.println(Whale.getName());
-	        }
+		System.out.println("Using for loop");
+		System.out.println("--------------");
+		for (int i = 0; i < 4; i++) {
+			System.out.println(Animal.class);
+		}
+	     
 		
 
 	
